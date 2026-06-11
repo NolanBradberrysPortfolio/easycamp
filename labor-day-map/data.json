@@ -1,0 +1,193 @@
+{
+  "generatedAt": "2026-06-11T18:54:47.992Z",
+  "dateRange": "Sep 4, 2026 to Sep 7, 2026",
+  "matches": 70,
+  "campgrounds": [
+    {
+      "facilityId": "10132055",
+      "campground": "Forks Campground (Inyo)",
+      "priority": 1,
+      "region": "Bishop Creek",
+      "link": "https://www.recreation.gov/camping/campgrounds/10132055?start_date=2026-09-04&end_date=2026-09-07",
+      "why": "Bishop Creek canyon campground near major Sierra trailheads and alpine water features.",
+      "sites": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "24",
+        "26"
+      ],
+      "types": [
+        "STANDARD NONELECTRIC",
+        "TENT ONLY NONELECTRIC"
+      ],
+      "latitude": 37.2546,
+      "longitude": -118.5791,
+      "imageUrl": "",
+      "parentName": "Inyo National Forest",
+      "city": "Bishop",
+      "state": "California"
+    },
+    {
+      "facilityId": "232343",
+      "campground": "(Lake Alpine) Lodgepole Campground",
+      "priority": 1,
+      "region": "Lake Alpine / Stanislaus",
+      "link": "https://www.recreation.gov/camping/campgrounds/232343?start_date=2026-09-04&end_date=2026-09-07",
+      "why": "Lake Alpine high-country camping near lake, trails, and granite Sierra scenery.",
+      "sites": [
+        "1",
+        "2",
+        "3",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "types": [
+        "STANDARD NONELECTRIC"
+      ],
+      "latitude": 38.477308,
+      "longitude": -120.024175,
+      "imageUrl": "https://cdn.recreation.gov/public/images/65312_700.webp",
+      "parentName": "Stanislaus National Forest",
+      "city": "Arnold",
+      "state": "California"
+    },
+    {
+      "facilityId": "233807",
+      "campground": "Four Jeffrey",
+      "priority": 1,
+      "region": "Bishop Creek",
+      "link": "https://www.recreation.gov/camping/campgrounds/233807?start_date=2026-09-04&end_date=2026-09-07",
+      "why": "Bishop Creek trail access near alpine lakes, South Lake, Lake Sabrina, and high-country water.",
+      "sites": [
+        "009",
+        "013",
+        "019",
+        "020"
+      ],
+      "types": [
+        "STANDARD NONELECTRIC"
+      ],
+      "latitude": 37.25,
+      "longitude": -118.55,
+      "imageUrl": "https://cdn.recreation.gov/public/2024/01/12/19/04/233807_1b6aacc3-b850-4337-bb4c-72a39312d8cc_700.webp",
+      "parentName": "Inyo National Forest",
+      "city": "Bishop",
+      "state": "California"
+    },
+    {
+      "facilityId": "232395",
+      "campground": "French Camp",
+      "priority": 2,
+      "region": "Rock Creek Canyon",
+      "link": "https://www.recreation.gov/camping/campgrounds/232395?start_date=2026-09-04&end_date=2026-09-07",
+      "why": "Rock Creek corridor access with creek, lake, and high-country trail options.",
+      "sites": [
+        "016",
+        "018",
+        "021",
+        "027",
+        "028",
+        "030",
+        "038",
+        "040",
+        "042",
+        "052",
+        "053",
+        "054",
+        "056",
+        "077",
+        "081"
+      ],
+      "types": [
+        "STANDARD NONELECTRIC",
+        "TENT ONLY NONELECTRIC"
+      ],
+      "latitude": 37.5525,
+      "longitude": -118.6791667,
+      "imageUrl": "https://cdn.recreation.gov/public/images/65734_700.webp",
+      "parentName": "Inyo National Forest",
+      "city": "Bishop",
+      "state": "California"
+    },
+    {
+      "facilityId": "232052",
+      "campground": "Grays Meadows",
+      "priority": 2,
+      "region": "Onion Valley / Independence",
+      "link": "https://www.recreation.gov/camping/campgrounds/232052?start_date=2026-09-04&end_date=2026-09-07",
+      "why": "Good Eastern Sierra fallback below Onion Valley with creek and Kearsarge access.",
+      "sites": [
+        "001",
+        "003",
+        "005",
+        "015",
+        "017",
+        "020",
+        "021",
+        "023",
+        "025",
+        "029",
+        "035",
+        "039",
+        "043",
+        "047",
+        "049"
+      ],
+      "types": [
+        "STANDARD NONELECTRIC"
+      ],
+      "latitude": 36.7688889,
+      "longitude": -118.295,
+      "imageUrl": "https://cdn.recreation.gov/public/images/64022_700.webp",
+      "parentName": "Inyo National Forest",
+      "city": "Independence",
+      "state": "California"
+    },
+    {
+      "facilityId": "232271",
+      "campground": "Sherwin Creek",
+      "priority": 2,
+      "region": "Mammoth Lakes",
+      "link": "https://www.recreation.gov/camping/campgrounds/232271?start_date=2026-09-04&end_date=2026-09-07",
+      "why": "7600 ft; creekside sites near Mammoth and John Muir Wilderness trailheads.",
+      "sites": [
+        "011",
+        "012",
+        "013"
+      ],
+      "types": [
+        "WALK TO"
+      ],
+      "latitude": 37.628937,
+      "longitude": -118.937878,
+      "imageUrl": "https://cdn.recreation.gov/public/images/75020_1440.webp",
+      "parentName": "Inyo National Forest",
+      "city": "Mammoth Lakes",
+      "state": "California"
+    }
+  ]
+}
